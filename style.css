@@ -4,6 +4,7 @@ body{
   background-size: contain;
   background-position: center center;
   color:#fff;
+  padding: 0px;
 }
 .wrapper{
   overflow: hidden;
